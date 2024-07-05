@@ -1,2 +1,2 @@
-# My-first-project
-This is a my first PHP project
+# Simple Responsive Website
+This is a simple PHP responsive website .
